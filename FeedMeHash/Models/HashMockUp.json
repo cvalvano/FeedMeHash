@@ -1,0 +1,496 @@
+{"statuses":  [
+     {
+      "metadata":  {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Fri Sep 20 18:13:14 +0000 2013",
+      "id": 381118871215685600,
+      "id_str": "381118871215685632",
+      "text": "RT @abhinavjain87: Carnac Campaign (Short Story Review) http://t.co/IUv32EMCZG @jtparrino @lyon_gm @RobSandersSpFic #Warhammer #WH40K #Elda…",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 589541191,
+        "id_str": "589541191",
+        "name": "Joe Parrino",
+        "screen_name": "jtparrino",
+        "location": "Olympia, WA",
+        "description": "Writer? Reader? Captain of Chickens? Probably. Maybe. Yeah.",
+        "url": "http://t.co/dbK8CHLgmN",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/dbK8CHLgmN",
+                "expanded_url": "http://captainofchickens.com",
+                "display_url": "captainofchickens.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 242,
+        "friends_count": 482,
+        "listed_count": 2,
+        "created_at": "Fri May 25 00:19:46 +0000 2012",
+        "favourites_count": 449,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1102,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/profile_images/378800000424404949/03ffb3fe6287fa7c3a633f19fe671d12_normal.jpeg",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/378800000424404949/03ffb3fe6287fa7c3a633f19fe671d12_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/589541191/1355509498",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "result_type": "recent",
+          "iso_language_code": "en"
+        },
+        "created_at": "Fri Sep 20 14:19:45 +0000 2013",
+        "id": 381060111961047040,
+        "id_str": "381060111961047041",
+        "text": "Carnac Campaign (Short Story Review) http://t.co/IUv32EMCZG @jtparrino @lyon_gm @RobSandersSpFic #Warhammer #WH40K #Eldar #Necrons #Awesome",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 24621668,
+          "id_str": "24621668",
+          "name": "Abhinav Jain",
+          "screen_name": "abhinavjain87",
+          "location": "The World",
+          "description": "Reader. Writer. Blogger. Reviewer - The Founding Fields http://t.co/N2fAFHgZLR",
+          "url": "http://t.co/i7FDTTEzU2",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/i7FDTTEzU2",
+                  "expanded_url": "http://sonsofcorax.wordpress.com/",
+                  "display_url": "sonsofcorax.wordpress.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/N2fAFHgZLR",
+                  "expanded_url": "http://thefoundingfields.com/",
+                  "display_url": "thefoundingfields.com",
+                  "indices":  [
+                    56,
+                    78
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 673,
+          "friends_count": 465,
+          "listed_count": 42,
+          "created_at": "Mon Mar 16 01:03:28 +0000 2009",
+          "favourites_count": 75590,
+          "utc_offset": 14400,
+          "time_zone": "Abu Dhabi",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 56522,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://a0.twimg.com/profile_background_images/303423001/fulgrim-big.jpg",
+          "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/303423001/fulgrim-big.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://a0.twimg.com/profile_images/3531760880/ca84b9843e4a85e3f00f82eb87928320_normal.png",
+          "profile_image_url_https": "https://si0.twimg.com/profile_images/3531760880/ca84b9843e4a85e3f00f82eb87928320_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/24621668/1353385877",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "Warhammer",
+              "indices":  [
+                97,
+                107
+              ]
+            },
+             {
+              "text": "WH40K",
+              "indices":  [
+                108,
+                114
+              ]
+            },
+             {
+              "text": "Eldar",
+              "indices":  [
+                115,
+                121
+              ]
+            },
+             {
+              "text": "Necrons",
+              "indices":  [
+                122,
+                130
+              ]
+            },
+             {
+              "text": "Awesome",
+              "indices":  [
+                131,
+                139
+              ]
+            }
+          ],
+          "symbols":  [],
+          "urls":  [
+             {
+              "url": "http://t.co/IUv32EMCZG",
+              "expanded_url": "http://wp.me/p1stLy-186",
+              "display_url": "wp.me/p1stLy-186",
+              "indices":  [
+                37,
+                59
+              ]
+            }
+          ],
+          "user_mentions":  [
+             {
+              "screen_name": "jtparrino",
+              "name": "Joe Parrino",
+              "id": 589541191,
+              "id_str": "589541191",
+              "indices":  [
+                60,
+                70
+              ]
+            },
+             {
+              "screen_name": "lyon_gm",
+              "name": "Graeme Lyon",
+              "id": 1631402460,
+              "id_str": "1631402460",
+              "indices":  [
+                71,
+                79
+              ]
+            },
+             {
+              "screen_name": "RobSandersSpFic",
+              "name": "Rob Sanders",
+              "id": 459509155,
+              "id_str": "459509155",
+              "indices":  [
+                80,
+                96
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "Warhammer",
+            "indices":  [
+              116,
+              126
+            ]
+          },
+           {
+            "text": "WH40K",
+            "indices":  [
+              127,
+              133
+            ]
+          },
+           {
+            "text": "Elda",
+            "indices":  [
+              134,
+              139
+            ]
+          }
+        ],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "http://t.co/IUv32EMCZG",
+            "expanded_url": "http://wp.me/p1stLy-186",
+            "display_url": "wp.me/p1stLy-186",
+            "indices":  [
+              56,
+              78
+            ]
+          }
+        ],
+        "user_mentions":  [
+           {
+            "screen_name": "abhinavjain87",
+            "name": "Abhinav Jain",
+            "id": 24621668,
+            "id_str": "24621668",
+            "indices":  [
+              3,
+              17
+            ]
+          },
+           {
+            "screen_name": "jtparrino",
+            "name": "Joe Parrino",
+            "id": 589541191,
+            "id_str": "589541191",
+            "indices":  [
+              79,
+              89
+            ]
+          },
+           {
+            "screen_name": "lyon_gm",
+            "name": "Graeme Lyon",
+            "id": 1631402460,
+            "id_str": "1631402460",
+            "indices":  [
+              90,
+              98
+            ]
+          },
+           {
+            "screen_name": "RobSandersSpFic",
+            "name": "Rob Sanders",
+            "id": 459509155,
+            "id_str": "459509155",
+            "indices":  [
+              99,
+              115
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+	{
+      "metadata":  {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Fri Sep 20 14:37:39 +0000 2013",
+      "id": 381064617654779900,
+      "id_str": "381064617654779904",
+      "text": "Full HD wallpapers.#Fantasy #Soldiers #Weapons #Fire #TheCity #Warhammer #40k #Fighters #Empire http://t.co/0ZoL72HvjF",
+      "source": "<a href='http://www.tumblr.com/' rel='nofollow'>Tumblr</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 1201353140,
+        "id_str": "1201353140",
+        "name": "Mind Blowing Picture",
+        "screen_name": "MindBlowPic",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 8,
+        "friends_count": 0,
+        "listed_count": 1,
+        "created_at": "Wed Feb 20 15:14:10 +0000 2013",
+        "favourites_count": 0,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17482,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://a0.twimg.com/profile_images/3282964495/2c520170b68bcc3a04de5c7ae7114c0d_normal.png",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/3282964495/2c520170b68bcc3a04de5c7ae7114c0d_normal.png",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "Fantasy",
+            "indices":  [
+              19,
+              27
+            ]
+          },
+           {
+            "text": "Soldiers",
+            "indices":  [
+              28,
+              37
+            ]
+          },
+           {
+            "text": "Weapons",
+            "indices":  [
+              38,
+              46
+            ]
+          },
+           {
+            "text": "Fire",
+            "indices":  [
+              47,
+              52
+            ]
+          },
+           {
+            "text": "TheCity",
+            "indices":  [
+              53,
+              61
+            ]
+          },
+           {
+            "text": "Warhammer",
+            "indices":  [
+              62,
+              72
+            ]
+          },
+           {
+            "text": "40k",
+            "indices":  [
+              73,
+              77
+            ]
+          },
+           {
+            "text": "Fighters",
+            "indices":  [
+              78,
+              87
+            ]
+          },
+           {
+            "text": "Empire",
+            "indices":  [
+              88,
+              95
+            ]
+          }
+        ],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "http://t.co/0ZoL72HvjF",
+            "expanded_url": "http://j.mp/19i",
+            "display_url": "j.mp/19i",
+            "indices":  [
+              96,
+              118
+            ]
+          }
+        ],
+        "user_mentions":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": true,
+      "lang": "en"
+    }
+  ]
+  }
